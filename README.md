@@ -19,7 +19,7 @@ The aim is to understand applicant characteristics that may contribute to either
 
 ## 📁 Dataset
 
-Dataset used: [German Credit Data](https://www.kaggle.com/datasets/uciml/german-credit)
+Dataset used: [German Credit Data]
 
 > **Note:** The dataset used in this project does **not** contain a target variable like `Risk` or `Class`. If you're looking to build a classifier, make sure to download the version that includes the credit risk labels.
 
